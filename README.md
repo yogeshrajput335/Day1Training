@@ -1,26 +1,13 @@
-Git Intro
-git clone https://github.com/yogeshrajput335/Day1Training.git
+# Important Commands
 
-git clone origin https://<GIT USER ID>:<TOKEN>@github.com/yogeshrajput335/Day1Training.git
+npm install / npm i / npm i -g <library name>
+ng serve --port 4401   
 
-git clone origin https://<GIT USER ID>:<TOKEN>@github.com/yogeshrajput335/Day1Training.git
+# Angular Flow
 
-git remote set-url origin https://<GIT USER ID>:<TOKEN>@github.com/yogeshrajput335/Day1Training.git
+index.html > main.ts > app.module.ts > app.component.ts > app.component.html
 
-Angular Intro
+# Component
 
-NODE
-https://nodejs.org/en/
-node -v
-npm -v
-
-Angular Cli
-https://angular.io/cli
-
-npm install -g @angular/cli
-npm i -g @angular/cli
-ng new my-first-project
-ng serve
-
-GO TO app > src > app.component.html
-
+ng generate component ads
+ng g c ads
