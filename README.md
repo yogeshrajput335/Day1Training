@@ -5,7 +5,7 @@
 
 # Angular Flow
 
-## index.html > main.ts > app.module.ts > app.component.ts > app.component.html
+- index.html > main.ts > app.module.ts > app.component.ts > app.component.html
 
 # Component
 
