@@ -11,3 +11,22 @@
 
 - ng generate component ads
 - ng g c ads
+
+# Git Imp Commands
+
+- git config --global user.name "FIRST_NAME LAST_NAME"
+- git config --global user.email "MY_NAME@example.com"
+
+#
+
+`Interpolation
+Property Binding - One Way Binding
+Event Binding - One Way Binding
+Model Binding - Two Way Binding
+Component Interaction - https://angular.io/guide/inputs-outputs
+Data to Child - Input
+Get Data From Child - Output
+
+https://www.typescriptlang.org/play
+https://www.w3schools.com/typescript/typescript_keyof.php
+https://www.youtube.com/watch?v=d56mG7DezGs`

@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { MyBodyComponent } from './mybody/mybody.component';
 import { MyHeadComponent } from './myhead/myhead.component';
 import { AdsComponent } from './ads/ads.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { AdsComponent } from './ads/ads.component';
     AdsComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -5,5 +5,8 @@ import { Component } from "@angular/core";
   templateUrl: './mybody.component.html'
 })
 export class MyBodyComponent {
-
+  v:string =""
+  addItem(newItem: string) {
+    this.v =newItem;
+  }
 }
