@@ -30,3 +30,5 @@ Get Data From Child - Output
 https://www.typescriptlang.org/play
 https://www.w3schools.com/typescript/typescript_keyof.php
 https://www.youtube.com/watch?v=d56mG7DezGs`
+
+Create sample for training
